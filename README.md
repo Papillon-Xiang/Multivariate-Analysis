@@ -11,3 +11,11 @@
 | features              |endocortical perimeter  $\downarrow$     | medullary area $\downarrow$| eccentricity | serine9 phosphorylated GSK3 $\beta$ content $\downarrow$| 
 |---------------------  |----------                   |----------------|--------------|--------------------|
 |GSK3 $\beta$ content $\downarrow$|-0.04 $\rightarrow$ 0.18 $\textcolor{red}{\uparrow}$ |  0.11 $\rightarrow$ 0.22 $\textcolor{red}{\uparrow}$ | -0.10 $\rightarrow$ 0.12 $\textcolor{red}{\uparrow}$       |-0.44 $\rightarrow$ 0.41 $\textcolor{red}{\uparrow}$   |
+
+
+## Result of Ocular vs Muscle
+| features              |ratio of phosphorylated serine9 to total GSK3 $\beta$ content     | mhc_iix $\uparrow$| 
+|---------------------  |----------                   |----------------|
+|Density $\downarrow$|0.48 $\rightarrow$ -0.28 $\textcolor{blue}{\downarrow}$ |  0.44 $\rightarrow$ 0.23 $\textcolor{blue}{\downarrow}$ | 
+|sumEC $\uparrow$|0.29 $\rightarrow$ -0.37 $\textcolor{blue}{\downarrow}$  |  0.16 $\rightarrow$ 0.49 $\textcolor{red}{\uparrow}$ | 
+|Zotr $\downarrow$|-0.14 $\rightarrow$ -0.23 $\textcolor{blue}{\downarrow}$  |  0.01 $\rightarrow$ 0.12 $\textcolor{red}{\uparrow}$ | 
