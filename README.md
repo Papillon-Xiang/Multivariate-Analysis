@@ -30,3 +30,18 @@
 |eccentricity|0.0021 decrease  |  -0.00071 increase |
 |serine9_phosphorylated_GSK3_beta_content_LSDS-70|6.8 decrease  |  1.9 decrease |
 
+
+
+## Marginal Change of Ocular data (ground control - space flight)
+| features              |variance change     | mean change| 
+|---------------------  |----------                   |----------------|
+|Avg_Left| 4 decrease |  0.95  decrease  | 
+|connective_density|-5.8e-09 increase  |  -3.9 e-05 increase | 
+|Sup-Inf|0.00072 decrease  |  -0.0038 increase | 
+|Pigment Layer-left|1.3e-07 decrease |  0.0029 decrease |
+|density (PNA-positve)|14967 decrease  |  302 decrease |
+|sumEC|-61 increase  |  -4.5 increase |
+|LSDS-5_immunostaining_microscopy_PECAMtr_TRANSFORMED_Average|-166 increase  |  -10 increase |
+|LSDS-5_immunostaining_microscopy_Zo-1tr_TRANSFORMED_Average|18 decrease  |  8.8 decrease |
+
+
