@@ -28,6 +28,5 @@
 |endocortical_perimeter_millimeter|0.031 decrease  |  0.12 decrease |
 |medullary_area_millimeter_squared|0.0017 decrease  |  0.046 decrease |
 |eccentricity|0.0021 decrease  |  -0.00071 increase |
-|serine9_phosphorylated_GSK3_beta_content_LSDS-70
-|6.8 decrease  |  1.9 decrease |
+|serine9_phosphorylated_GSK3_beta_content_LSDS-70|6.8 decrease  |  1.9 decrease |
 
