@@ -13,9 +13,21 @@
 |GSK3 $\beta$ content $\downarrow$|-0.04 $\rightarrow$ 0.18 $\textcolor{red}{\uparrow}$ |  0.11 $\rightarrow$ 0.22 $\textcolor{red}{\uparrow}$ | -0.10 $\rightarrow$ 0.12 $\textcolor{red}{\uparrow}$       |-0.44 $\rightarrow$ 0.41 $\textcolor{red}{\uparrow}$   |
 
 
-## Result of Ocular vs Muscle
-| features              |ratio of phosphorylated serine9 to total GSK3 $\beta$ content     | mhc_iix $\uparrow$| 
+## Marginal Change 
+| features              |endocortical perimeter  $\downarrow$     | medullary area $\downarrow$| eccentricity | serine9 phosphorylated GSK3 $\beta$ content $\downarrow$| 
+|---------------------  |----------                   |----------------|--------------|--------------------|
+|GSK3 $\beta$ content $\downarrow$|-0.04 $\rightarrow$ 0.18 $\textcolor{red}{\uparrow}$ |  0.11 $\rightarrow$ 0.22 $\textcolor{red}{\uparrow}$ | -0.10 $\rightarrow$ 0.12 $\textcolor{red}{\uparrow}$       |-0.44 $\rightarrow$ 0.41 $\textcolor{red}{\uparrow}$   |
+
+
+## Result of Ocular vs Muscle (ground control - space flight)
+| features              |variance change     | mean change| 
 |---------------------  |----------                   |----------------|
-|Density $\downarrow$|0.48 $\rightarrow$ -0.28 $\textcolor{blue}{\downarrow}$ |  0.44 $\rightarrow$ 0.23 $\textcolor{blue}{\downarrow}$ | 
-|sumEC $\uparrow$|0.29 $\rightarrow$ -0.37 $\textcolor{blue}{\downarrow}$  |  0.16 $\rightarrow$ 0.49 $\textcolor{red}{\uparrow}$ | 
-|Zotr $\downarrow$|-0.14 $\rightarrow$ -0.23 $\textcolor{blue}{\downarrow}$  |  0.01 $\rightarrow$ 0.12 $\textcolor{red}{\uparrow}$ | 
+|trabecular_separation_millimeter| 0.00014 decrease |  -0.011  increase  | 
+|connective_density|-5.8e-09 increase  |  -3.9 e-05 increase | 
+|total_perimeter_millimeter|0.025 decrease  |  0.36 increase | 
+|endocortical_perimeter_millimeter|0.031 decrease  |  0.12 decrease |
+|medullary_area_millimeter_squared|0.0017 decrease  |  0.046 decrease |
+|eccentricity|0.0021 decrease  |  -0.00071 increase |
+|serine9_phosphorylated_GSK3_beta_content_LSDS-70
+|6.8 decrease  |  1.9 decrease |
+
