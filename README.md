@@ -44,4 +44,10 @@
 |LSDS-5_immunostaining_microscopy_PECAMtr_TRANSFORMED_Average|-166 increase  |  -10 increase |
 |LSDS-5_immunostaining_microscopy_Zo-1tr_TRANSFORMED_Average|18 decrease  |  8.8 decrease |
 
+## Marginal Change of Muscle data (ground control - space flight)
+| features              |variance change     | mean change| 
+|---------------------  |----------                   |----------------|
+|GSK3_beta_content| 1.1 decrease |  0.33  decrease  | 
+|ratio_of_phosphorylated_serine_9_to_total_GSK3_beta_content__LSDS-68|-0.041 increase  |  -0.0042 increase | 
+|mhc_iix|-7.2 increase  |  -4 increase | 
 
