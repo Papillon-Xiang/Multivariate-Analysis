@@ -19,7 +19,7 @@
 |GSK3 $\beta$ content $\downarrow$|-0.04 $\rightarrow$ 0.18 $\textcolor{red}{\uparrow}$ |  0.11 $\rightarrow$ 0.22 $\textcolor{red}{\uparrow}$ | -0.10 $\rightarrow$ 0.12 $\textcolor{red}{\uparrow}$       |-0.44 $\rightarrow$ 0.41 $\textcolor{red}{\uparrow}$   |
 
 
-## Result of Ocular vs Muscle (ground control - space flight)
+## Marginal Change of Bone data (ground control - space flight)
 | features              |variance change     | mean change| 
 |---------------------  |----------                   |----------------|
 |trabecular_separation_millimeter| 0.00014 decrease |  -0.011  increase  | 
