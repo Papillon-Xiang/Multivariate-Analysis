@@ -10,7 +10,7 @@
 ## Result of Bone and Muscle
 | features              |endocortical perimeter  $\downarrow$     | medullary area $\downarrow$| eccentricity | serine9 phosphorylated GSK3 $\beta$ content $\downarrow$| 
 |---------------------  |----------                   |----------------|--------------|--------------------|
-|GSK3 $\beta$ content $\downarrow$|-0.04 $\rightarrow$ 0.18 $\textcolor{red}{\uparrow}$ |  0.11 $\rightarrow$ 0.22 $\textcolor{red}{\uparrow}$ | -0.10 $\rightarrow$ 0.12 $\textcolor{red}{\uparrow}$       |-0.44 $\rightarrow$ 0.41 $\textcolor{red}{\uparrow}$   |
+|GSK3 $\beta$ content $\downarrow$|-0.08 $\rightarrow$ 0.24 $\textcolor{red}{\uparrow}$ |  0.11 $\rightarrow$ 0.22 $\textcolor{red}{\uparrow}$ | -0.10 $\rightarrow$ 0.12 $\textcolor{red}{\uparrow}$       |-0.44 $\rightarrow$ 0.41 $\textcolor{red}{\uparrow}$   |
 
 ## Result of Ocular and Muscle 
 | features              |ratio of phosphorylated serine9 to total GSK3 $\beta$ content     |mhc_iix $\uparrow$| 
